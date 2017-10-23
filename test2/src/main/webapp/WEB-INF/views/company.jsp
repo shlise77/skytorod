@@ -10,7 +10,7 @@
     <meta charset="utf-8" />
     <meta name="description" content="실시간 기업정보 서비스, 페이지, 정보공유" />
     
-     <title>Klaiver 회원가입 | 로그인 </title>
+     <title>Klaiver 회원가입 | 로그인 1</title>
     <link href="./resources/images/favicon.png" rel="shortcut icon" type="image/png" />
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Noto+Sans' />
     <link rel='stylesheet' type='text/css' href='./resources/css/main.css' />
